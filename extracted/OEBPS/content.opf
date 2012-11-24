@@ -10,31 +10,31 @@
   </metadata>
   <manifest>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
-    <item href="Text/Introduction.html" id="Introduction.html" media-type="application/xhtml+xml" />
-    <item href="Text/2012%20-%20Ensemble%20vers%20la%20vie%3A%20Mission%20et%20%C3%A9vang%C3%A9lisation%20dans%20des%20contextes%20en%20%C3%A9volution.html" id="x2012_-_Ensemble_vers_la_vie__Mission_et_évangélisation_dans_des_contextes_en_évolution.html" media-type="application/xhtml+xml" />
-    <item href="Text/1982%20-%20Mission%20and%20Evangelism.html" id="x1982_-_Mission_and_Evangelism.html" media-type="application/xhtml+xml" />
-    <item href="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html" id="x1974_-_déclaration_de_Lausanne.html" media-type="application/xhtml+xml" />
-    <item href="Text/Sources%20et%20ressources.html" id="Sources_et_ressources.html" media-type="application/xhtml+xml" />
-    <item href="Text/2011%20-%20Le%20t%C3%A9moignage%20chr%C3%A9tien%20dans%20un%20monde%20multireligieux.html" id="x2011_-_Le_témoignage_chrétien_dans_un_monde_multireligieux.html" media-type="application/xhtml+xml" />
-    <item href="Text/1975%20-%20Paul%20VI%20-%20Evangelii%20Nuntiandi.html" id="x1975_-_Paul_VI_-_Evangelii_Nuntiandi.html" media-type="application/xhtml+xml" />
-    <item href="Text/2010%20-%20r%C3%A9sum%C3%A9%20de%20l%27engagement%20du%20Cap.html" id="x2010_-_résumé_de_l_engagement_du_Cap.html" media-type="application/xhtml+xml" />
-    <item href="Text/2010%20-%20engagement-du-cap.html" id="x2010_-_engagement-du-cap.html" media-type="application/xhtml+xml" />
+    <item href="Text/introduction.html" id="introduction.html" media-type="application/xhtml+xml" />
+    <item href="Text/2012-ensemble-vers-la-vie.html" id="x2012-ensemble-vers-la-vie.html" media-type="application/xhtml+xml" />
+    <item href="Text/1982-mission-and-evangelism.html" id="x1982-mission-and-evangelism.html" media-type="application/xhtml+xml" />
+    <item href="Text/1974-declaration-de-lausanne.html" id="x1974-declaration-de-lausanne.html" media-type="application/xhtml+xml" />
+    <item href="Text/sources-et-ressources.html" id="sources-et-ressources.html" media-type="application/xhtml+xml" />
+    <item href="Text/2011-le-temoignage-chretien-dans.html" id="x2011-le-temoignage-chretien-dans.html" media-type="application/xhtml+xml" />
+    <item href="Text/1975-paul-vi-evangelii-nuntiandi.html" id="x1975-paul-vi-evangelii-nuntiandi.html" media-type="application/xhtml+xml" />
+    <item href="Text/2010-resume-de-l-engagement-du-cap.html" id="x2010-resume-de-l-engagement-du-cap.html" media-type="application/xhtml+xml" />
+    <item href="Text/2010-engagement-du-cap.html" id="x2010-engagement-du-cap.html" media-type="application/xhtml+xml" />
     <item href="Styles/Style0001.css" id="Style0001.css" media-type="text/css" />
     <item href="Text/TOC.html" id="TOC.html" media-type="application/xhtml+xml" />
-    <item href="Text/2003%20-%20La%20d%C3%A9claration%20d%E2%80%99Amsterdam.html" id="x2003_-_La_déclaration_d_Amsterdam.html" media-type="application/xhtml+xml" />
+    <item href="Text/2003-la-declaration-d-amsterdam.html" id="x2003-la-declaration-d-amsterdam.html" media-type="application/xhtml+xml" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="TOC.html" />
-    <itemref idref="Introduction.html" />
-    <itemref idref="x1975_-_Paul_VI_-_Evangelii_Nuntiandi.html" />
-    <itemref idref="x1974_-_déclaration_de_Lausanne.html" />
-    <itemref idref="x1982_-_Mission_and_Evangelism.html" />
-    <itemref idref="x2003_-_La_déclaration_d_Amsterdam.html" />
-    <itemref idref="x2010_-_engagement-du-cap.html" />
-    <itemref idref="x2010_-_résumé_de_l_engagement_du_Cap.html" />
-    <itemref idref="x2011_-_Le_témoignage_chrétien_dans_un_monde_multireligieux.html" />
-    <itemref idref="x2012_-_Ensemble_vers_la_vie__Mission_et_évangélisation_dans_des_contextes_en_évolution.html" />
-    <itemref idref="Sources_et_ressources.html" />
+    <itemref idref="introduction.html" />
+    <itemref idref="x1975-paul-vi-evangelii-nuntiandi.html" />
+    <itemref idref="x1974-declaration-de-lausanne.html" />
+    <itemref idref="x1982-mission-and-evangelism.html" />
+    <itemref idref="x2003-la-declaration-d-amsterdam.html" />
+    <itemref idref="x2010-engagement-du-cap.html" />
+    <itemref idref="x2010-resume-de-l-engagement-du-cap.html" />
+    <itemref idref="x2011-le-temoignage-chretien-dans.html" />
+    <itemref idref="x2012-ensemble-vers-la-vie.html" />
+    <itemref idref="sources-et-ressources.html" />
   </spine>
   <guide>
     <reference href="Text/TOC.html" title="Table Of Contents" type="toc" />

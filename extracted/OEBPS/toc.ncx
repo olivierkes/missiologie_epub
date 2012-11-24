@@ -22,396 +22,396 @@
       <navLabel>
         <text>Introduction</text>
       </navLabel>
-      <content src="Text/Introduction.html"/>
+      <content src="Text/introduction.html"/>
     </navPoint>
     <navPoint id="navPoint-3" playOrder="3">
       <navLabel>
         <text>1975 : Evangelii Nuntiandi</text>
       </navLabel>
-      <content src="Text/1975%20-%20Paul%20VI%20-%20Evangelii%20Nuntiandi.html"/>
+      <content src="Text/1975-paul-vi-evangelii-nuntiandi.html"/>
       <navPoint id="navPoint-4" playOrder="4">
         <navLabel>
           <text> » Introduction</text>
         </navLabel>
-        <content src="Text/1975%20-%20Paul%20VI%20-%20Evangelii%20Nuntiandi.html#sigil_toc_id_4"/>
+        <content src="Text/1975-paul-vi-evangelii-nuntiandi.html#sigil_toc_id_4"/>
       </navPoint>
       <navPoint id="navPoint-5" playOrder="5">
         <navLabel>
           <text> » I. Du Christ évangélisateur à une église évangélisatrice</text>
         </navLabel>
-        <content src="Text/1975%20-%20Paul%20VI%20-%20Evangelii%20Nuntiandi.html#sigil_toc_id_5"/>
+        <content src="Text/1975-paul-vi-evangelii-nuntiandi.html#sigil_toc_id_5"/>
       </navPoint>
       <navPoint id="navPoint-6" playOrder="6">
         <navLabel>
           <text> » II. Qu'est-ce qu'évangéliser ?</text>
         </navLabel>
-        <content src="Text/1975%20-%20Paul%20VI%20-%20Evangelii%20Nuntiandi.html#sigil_toc_id_6"/>
+        <content src="Text/1975-paul-vi-evangelii-nuntiandi.html#sigil_toc_id_6"/>
       </navPoint>
       <navPoint id="navPoint-7" playOrder="7">
         <navLabel>
           <text> » III. Le contenu de l'évangélisation</text>
         </navLabel>
-        <content src="Text/1975%20-%20Paul%20VI%20-%20Evangelii%20Nuntiandi.html#sigil_toc_id_7"/>
+        <content src="Text/1975-paul-vi-evangelii-nuntiandi.html#sigil_toc_id_7"/>
       </navPoint>
       <navPoint id="navPoint-8" playOrder="8">
         <navLabel>
           <text> » IV. Les voies de l'évangélisation</text>
         </navLabel>
-        <content src="Text/1975%20-%20Paul%20VI%20-%20Evangelii%20Nuntiandi.html#sigil_toc_id_8"/>
+        <content src="Text/1975-paul-vi-evangelii-nuntiandi.html#sigil_toc_id_8"/>
       </navPoint>
       <navPoint id="navPoint-9" playOrder="9">
         <navLabel>
           <text> » V. Les destinataires de l'évangélisation</text>
         </navLabel>
-        <content src="Text/1975%20-%20Paul%20VI%20-%20Evangelii%20Nuntiandi.html#sigil_toc_id_9"/>
+        <content src="Text/1975-paul-vi-evangelii-nuntiandi.html#sigil_toc_id_9"/>
       </navPoint>
       <navPoint id="navPoint-10" playOrder="10">
         <navLabel>
           <text> » VI. Les ouvriers de l'évangélisation</text>
         </navLabel>
-        <content src="Text/1975%20-%20Paul%20VI%20-%20Evangelii%20Nuntiandi.html#sigil_toc_id_10"/>
+        <content src="Text/1975-paul-vi-evangelii-nuntiandi.html#sigil_toc_id_10"/>
       </navPoint>
       <navPoint id="navPoint-11" playOrder="11">
         <navLabel>
           <text> » VII. L'Esprit de l'évangélisation</text>
         </navLabel>
-        <content src="Text/1975%20-%20Paul%20VI%20-%20Evangelii%20Nuntiandi.html#sigil_toc_id_11"/>
+        <content src="Text/1975-paul-vi-evangelii-nuntiandi.html#sigil_toc_id_11"/>
       </navPoint>
       <navPoint id="navPoint-12" playOrder="12">
         <navLabel>
           <text> » Conclusion</text>
         </navLabel>
-        <content src="Text/1975%20-%20Paul%20VI%20-%20Evangelii%20Nuntiandi.html#sigil_toc_id_12"/>
+        <content src="Text/1975-paul-vi-evangelii-nuntiandi.html#sigil_toc_id_12"/>
       </navPoint>
     </navPoint>
     <navPoint id="navPoint-13" playOrder="13">
       <navLabel>
         <text>1974 : La déclaration de Lausanne</text>
       </navLabel>
-      <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html"/>
+      <content src="Text/1974-declaration-de-lausanne.html"/>
       <navPoint id="navPoint-14" playOrder="14">
         <navLabel>
           <text> » Introduction</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_14"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_14"/>
       </navPoint>
       <navPoint id="navPoint-15" playOrder="15">
         <navLabel>
           <text> » 1. Le dessein de Dieu</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_15"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_15"/>
       </navPoint>
       <navPoint id="navPoint-16" playOrder="16">
         <navLabel>
           <text> » 2. Autorité et puissance de la Bible</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_16"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_16"/>
       </navPoint>
       <navPoint id="navPoint-17" playOrder="17">
         <navLabel>
           <text> » 3. Le Christ unique et universel</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_17"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_17"/>
       </navPoint>
       <navPoint id="navPoint-18" playOrder="18">
         <navLabel>
           <text> » 4. La nature de l'évangélisation</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_18"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_18"/>
       </navPoint>
       <navPoint id="navPoint-19" playOrder="19">
         <navLabel>
           <text> » 5. Responsabilité sociale du chrétien</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_19"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_19"/>
       </navPoint>
       <navPoint id="navPoint-20" playOrder="20">
         <navLabel>
           <text> » 6. L'Église et l'évangélisation</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_20"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_20"/>
       </navPoint>
       <navPoint id="navPoint-21" playOrder="21">
         <navLabel>
           <text> » 7. Coopération dans l'évangélisation</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_21"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_21"/>
       </navPoint>
       <navPoint id="navPoint-22" playOrder="22">
         <navLabel>
           <text> » 8. Collaboration des Églises dans l'évangélisation</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_22"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_22"/>
       </navPoint>
       <navPoint id="navPoint-23" playOrder="23">
         <navLabel>
           <text> » 9. Urgence de l'évangélisation</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_23"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_23"/>
       </navPoint>
       <navPoint id="navPoint-24" playOrder="24">
         <navLabel>
           <text> » 10. Évangélisation et culture</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_24"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_24"/>
       </navPoint>
       <navPoint id="navPoint-25" playOrder="25">
         <navLabel>
           <text> » 11. Enseignement et autorité</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_25"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_25"/>
       </navPoint>
       <navPoint id="navPoint-26" playOrder="26">
         <navLabel>
           <text> » 12. Conflits spirituels</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_26"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_26"/>
       </navPoint>
       <navPoint id="navPoint-27" playOrder="27">
         <navLabel>
           <text> » 13. Liberté et persécution</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_27"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_27"/>
       </navPoint>
       <navPoint id="navPoint-28" playOrder="28">
         <navLabel>
           <text> » 14. La puissance du Saint-Esprit</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_28"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_28"/>
       </navPoint>
       <navPoint id="navPoint-29" playOrder="29">
         <navLabel>
           <text> » 15. Le retour du Christ</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_29"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_29"/>
       </navPoint>
       <navPoint id="navPoint-30" playOrder="30">
         <navLabel>
           <text> » Conclusion</text>
         </navLabel>
-        <content src="Text/1974%20-%20d%C3%A9claration%20de%20Lausanne.html#sigil_toc_id_30"/>
+        <content src="Text/1974-declaration-de-lausanne.html#sigil_toc_id_30"/>
       </navPoint>
     </navPoint>
     <navPoint id="navPoint-31" playOrder="31">
       <navLabel>
         <text>1982 : Mission and Evangelism – An Ecumenical Affirmation</text>
       </navLabel>
-      <content src="Text/1982%20-%20Mission%20and%20Evangelism.html"/>
+      <content src="Text/1982-mission-and-evangelism.html"/>
       <navPoint id="navPoint-32" playOrder="32">
         <navLabel>
           <text> » Preface</text>
         </navLabel>
-        <content src="Text/1982%20-%20Mission%20and%20Evangelism.html#sigil_toc_id_32"/>
+        <content src="Text/1982-mission-and-evangelism.html#sigil_toc_id_32"/>
       </navPoint>
       <navPoint id="navPoint-33" playOrder="33">
         <navLabel>
           <text> » The Call to Mission</text>
         </navLabel>
-        <content src="Text/1982%20-%20Mission%20and%20Evangelism.html#sigil_toc_id_33"/>
+        <content src="Text/1982-mission-and-evangelism.html#sigil_toc_id_33"/>
       </navPoint>
       <navPoint id="navPoint-34" playOrder="34">
         <navLabel>
           <text> » The Call to Proclamation and Witness</text>
         </navLabel>
-        <content src="Text/1982%20-%20Mission%20and%20Evangelism.html#sigil_toc_id_34"/>
+        <content src="Text/1982-mission-and-evangelism.html#sigil_toc_id_34"/>
       </navPoint>
       <navPoint id="navPoint-35" playOrder="35">
         <navLabel>
           <text> » Ecumenical Convictions</text>
         </navLabel>
-        <content src="Text/1982%20-%20Mission%20and%20Evangelism.html#sigil_toc_id_35"/>
+        <content src="Text/1982-mission-and-evangelism.html#sigil_toc_id_35"/>
       </navPoint>
       <navPoint id="navPoint-36" playOrder="36">
         <navLabel>
           <text> » Looking Toward The Future</text>
         </navLabel>
-        <content src="Text/1982%20-%20Mission%20and%20Evangelism.html#sigil_toc_id_36"/>
+        <content src="Text/1982-mission-and-evangelism.html#sigil_toc_id_36"/>
       </navPoint>
     </navPoint>
     <navPoint id="navPoint-37" playOrder="37">
       <navLabel>
         <text>2003 : La déclaration d’Amsterdam</text>
       </navLabel>
-      <content src="Text/2003%20-%20La%20d%C3%A9claration%20d%E2%80%99Amsterdam.html"/>
+      <content src="Text/2003-la-declaration-d-amsterdam.html"/>
       <navPoint id="navPoint-38" playOrder="38">
         <navLabel>
           <text> » 1.1. Préambule</text>
         </navLabel>
-        <content src="Text/2003%20-%20La%20d%C3%A9claration%20d%E2%80%99Amsterdam.html#sigil_toc_id_38"/>
+        <content src="Text/2003-la-declaration-d-amsterdam.html#sigil_toc_id_38"/>
       </navPoint>
       <navPoint id="navPoint-39" playOrder="39">
         <navLabel>
           <text> » 1.2. Charte d’engagements</text>
         </navLabel>
-        <content src="Text/2003%20-%20La%20d%C3%A9claration%20d%E2%80%99Amsterdam.html#sigil_toc_id_39"/>
+        <content src="Text/2003-la-declaration-d-amsterdam.html#sigil_toc_id_39"/>
       </navPoint>
       <navPoint id="navPoint-40" playOrder="40">
         <navLabel>
           <text> » 1.3. Définition des termes clé</text>
         </navLabel>
-        <content src="Text/2003%20-%20La%20d%C3%A9claration%20d%E2%80%99Amsterdam.html#sigil_toc_id_40"/>
+        <content src="Text/2003-la-declaration-d-amsterdam.html#sigil_toc_id_40"/>
       </navPoint>
       <navPoint id="navPoint-41" playOrder="41">
         <navLabel>
           <text> » 1.4. Prière.</text>
         </navLabel>
-        <content src="Text/2003%20-%20La%20d%C3%A9claration%20d%E2%80%99Amsterdam.html#sigil_toc_id_41"/>
+        <content src="Text/2003-la-declaration-d-amsterdam.html#sigil_toc_id_41"/>
       </navPoint>
     </navPoint>
     <navPoint id="navPoint-42" playOrder="42">
       <navLabel>
         <text>2010 : Engagement du Cap</text>
       </navLabel>
-      <content src="Text/2010%20-%20engagement-du-cap.html"/>
+      <content src="Text/2010-engagement-du-cap.html"/>
       <navPoint id="navPoint-43" playOrder="43">
         <navLabel>
           <text> » Préface</text>
         </navLabel>
-        <content src="Text/2010%20-%20engagement-du-cap.html#sigil_toc_id_43"/>
+        <content src="Text/2010-engagement-du-cap.html#sigil_toc_id_43"/>
       </navPoint>
       <navPoint id="navPoint-44" playOrder="44">
         <navLabel>
           <text> » Préambule</text>
         </navLabel>
-        <content src="Text/2010%20-%20engagement-du-cap.html#sigil_toc_id_44"/>
+        <content src="Text/2010-engagement-du-cap.html#sigil_toc_id_44"/>
       </navPoint>
       <navPoint id="navPoint-45" playOrder="45">
         <navLabel>
           <text> » 1 – Au Dieu que nous aimons : La confession de foi du Cap</text>
         </navLabel>
-        <content src="Text/2010%20-%20engagement-du-cap.html#sigil_toc_id_45"/>
+        <content src="Text/2010-engagement-du-cap.html#sigil_toc_id_45"/>
       </navPoint>
       <navPoint id="navPoint-46" playOrder="46">
         <navLabel>
           <text> » 2 – Au monde que nous servons : L’appel à l’action du Cap</text>
         </navLabel>
-        <content src="Text/2010%20-%20engagement-du-cap.html#sigil_toc_id_46"/>
+        <content src="Text/2010-engagement-du-cap.html#sigil_toc_id_46"/>
       </navPoint>
       <navPoint id="navPoint-47" playOrder="47">
         <navLabel>
           <text> » Conclusion</text>
         </navLabel>
-        <content src="Text/2010%20-%20engagement-du-cap.html#sigil_toc_id_47"/>
+        <content src="Text/2010-engagement-du-cap.html#sigil_toc_id_47"/>
       </navPoint>
     </navPoint>
     <navPoint id="navPoint-48" playOrder="48">
       <navLabel>
         <text>2010 : Résumé de L’Engagement du Cap</text>
       </navLabel>
-      <content src="Text/2010%20-%20r%C3%A9sum%C3%A9%20de%20l%27engagement%20du%20Cap.html"/>
+      <content src="Text/2010-resume-de-l-engagement-du-cap.html"/>
       <navPoint id="navPoint-49" playOrder="49">
         <navLabel>
           <text> » 1 – Au Dieu que nous aimons : la confession de foi du Cap</text>
         </navLabel>
-        <content src="Text/2010%20-%20r%C3%A9sum%C3%A9%20de%20l%27engagement%20du%20Cap.html#sigil_toc_id_49"/>
+        <content src="Text/2010-resume-de-l-engagement-du-cap.html#sigil_toc_id_49"/>
       </navPoint>
       <navPoint id="navPoint-50" playOrder="50">
         <navLabel>
           <text> » 2 – Au monde que nous servons : l’appel à l’action du Cap</text>
         </navLabel>
-        <content src="Text/2010%20-%20r%C3%A9sum%C3%A9%20de%20l%27engagement%20du%20Cap.html#sigil_toc_id_50"/>
+        <content src="Text/2010-resume-de-l-engagement-du-cap.html#sigil_toc_id_50"/>
       </navPoint>
     </navPoint>
     <navPoint id="navPoint-51" playOrder="51">
       <navLabel>
         <text>2011 : Le témoignage chrétien dans un monde multireligieux – Recommandations de conduite</text>
       </navLabel>
-      <content src="Text/2011%20-%20Le%20t%C3%A9moignage%20chr%C3%A9tien%20dans%20un%20monde%20multireligieux.html"/>
+      <content src="Text/2011-le-temoignage-chretien-dans.html"/>
       <navPoint id="navPoint-52" playOrder="52">
         <navLabel>
           <text> » Préambule</text>
         </navLabel>
-        <content src="Text/2011%20-%20Le%20t%C3%A9moignage%20chr%C3%A9tien%20dans%20un%20monde%20multireligieux.html#sigil_toc_id_52"/>
+        <content src="Text/2011-le-temoignage-chretien-dans.html#sigil_toc_id_52"/>
       </navPoint>
       <navPoint id="navPoint-53" playOrder="53">
         <navLabel>
           <text> » Une base pour le témoignage chrétien</text>
         </navLabel>
-        <content src="Text/2011%20-%20Le%20t%C3%A9moignage%20chr%C3%A9tien%20dans%20un%20monde%20multireligieux.html#sigil_toc_id_53"/>
+        <content src="Text/2011-le-temoignage-chretien-dans.html#sigil_toc_id_53"/>
       </navPoint>
       <navPoint id="navPoint-54" playOrder="54">
         <navLabel>
           <text> » Principes</text>
         </navLabel>
-        <content src="Text/2011%20-%20Le%20t%C3%A9moignage%20chr%C3%A9tien%20dans%20un%20monde%20multireligieux.html#sigil_toc_id_54"/>
+        <content src="Text/2011-le-temoignage-chretien-dans.html#sigil_toc_id_54"/>
       </navPoint>
       <navPoint id="navPoint-55" playOrder="55">
         <navLabel>
           <text> » Recommandations</text>
         </navLabel>
-        <content src="Text/2011%20-%20Le%20t%C3%A9moignage%20chr%C3%A9tien%20dans%20un%20monde%20multireligieux.html#sigil_toc_id_55"/>
+        <content src="Text/2011-le-temoignage-chretien-dans.html#sigil_toc_id_55"/>
       </navPoint>
       <navPoint id="navPoint-56" playOrder="56">
         <navLabel>
           <text> » Annexe : Contexte du document</text>
         </navLabel>
-        <content src="Text/2011%20-%20Le%20t%C3%A9moignage%20chr%C3%A9tien%20dans%20un%20monde%20multireligieux.html#sigil_toc_id_56"/>
+        <content src="Text/2011-le-temoignage-chretien-dans.html#sigil_toc_id_56"/>
       </navPoint>
     </navPoint>
     <navPoint id="navPoint-57" playOrder="57">
       <navLabel>
         <text>2012 : Ensemble vers la vie: Mission et évangélisation dans des contextes en évolution</text>
       </navLabel>
-      <content src="Text/2012%20-%20Ensemble%20vers%20la%20vie%3A%20Mission%20et%20%C3%A9vang%C3%A9lisation%20dans%20des%20contextes%20en%20%C3%A9volution.html"/>
+      <content src="Text/2012-ensemble-vers-la-vie.html"/>
       <navPoint id="navPoint-58" playOrder="58">
         <navLabel>
           <text> » Nouvelle Affirmation du COE sur la mission et l’évangélisation</text>
         </navLabel>
-        <content src="Text/2012%20-%20Ensemble%20vers%20la%20vie%3A%20Mission%20et%20%C3%A9vang%C3%A9lisation%20dans%20des%20contextes%20en%20%C3%A9volution.html#sigil_toc_id_58"/>
+        <content src="Text/2012-ensemble-vers-la-vie.html#sigil_toc_id_58"/>
       </navPoint>
       <navPoint id="navPoint-59" playOrder="59">
         <navLabel>
           <text> » Ensemble vers la vie — Introduction au thème</text>
         </navLabel>
-        <content src="Text/2012%20-%20Ensemble%20vers%20la%20vie%3A%20Mission%20et%20%C3%A9vang%C3%A9lisation%20dans%20des%20contextes%20en%20%C3%A9volution.html#sigil_toc_id_59"/>
+        <content src="Text/2012-ensemble-vers-la-vie.html#sigil_toc_id_59"/>
       </navPoint>
       <navPoint id="navPoint-60" playOrder="60">
         <navLabel>
           <text> » Esprit de mission: souffle de Vie</text>
         </navLabel>
-        <content src="Text/2012%20-%20Ensemble%20vers%20la%20vie%3A%20Mission%20et%20%C3%A9vang%C3%A9lisation%20dans%20des%20contextes%20en%20%C3%A9volution.html#sigil_toc_id_60"/>
+        <content src="Text/2012-ensemble-vers-la-vie.html#sigil_toc_id_60"/>
       </navPoint>
       <navPoint id="navPoint-61" playOrder="61">
         <navLabel>
           <text> » Esprit de libération: mission depuis la périphérie</text>
         </navLabel>
-        <content src="Text/2012%20-%20Ensemble%20vers%20la%20vie%3A%20Mission%20et%20%C3%A9vang%C3%A9lisation%20dans%20des%20contextes%20en%20%C3%A9volution.html#sigil_toc_id_61"/>
+        <content src="Text/2012-ensemble-vers-la-vie.html#sigil_toc_id_61"/>
       </navPoint>
       <navPoint id="navPoint-62" playOrder="62">
         <navLabel>
           <text> » Esprit de communauté: une Église en marche</text>
         </navLabel>
-        <content src="Text/2012%20-%20Ensemble%20vers%20la%20vie%3A%20Mission%20et%20%C3%A9vang%C3%A9lisation%20dans%20des%20contextes%20en%20%C3%A9volution.html#sigil_toc_id_62"/>
+        <content src="Text/2012-ensemble-vers-la-vie.html#sigil_toc_id_62"/>
       </navPoint>
       <navPoint id="navPoint-63" playOrder="63">
         <navLabel>
           <text> » Esprit de la Pentecôte: la Bonne Nouvelle pour tous</text>
         </navLabel>
-        <content src="Text/2012%20-%20Ensemble%20vers%20la%20vie%3A%20Mission%20et%20%C3%A9vang%C3%A9lisation%20dans%20des%20contextes%20en%20%C3%A9volution.html#sigil_toc_id_63"/>
+        <content src="Text/2012-ensemble-vers-la-vie.html#sigil_toc_id_63"/>
       </navPoint>
       <navPoint id="navPoint-64" playOrder="64">
         <navLabel>
           <text> » Fête de la Vie — Affirmations conclusives</text>
         </navLabel>
-        <content src="Text/2012%20-%20Ensemble%20vers%20la%20vie%3A%20Mission%20et%20%C3%A9vang%C3%A9lisation%20dans%20des%20contextes%20en%20%C3%A9volution.html#sigil_toc_id_64"/>
+        <content src="Text/2012-ensemble-vers-la-vie.html#sigil_toc_id_64"/>
       </navPoint>
     </navPoint>
     <navPoint id="navPoint-65" playOrder="65">
       <navLabel>
         <text>Sources et ressources</text>
       </navLabel>
-      <content src="Text/Sources%20et%20ressources.html"/>
+      <content src="Text/sources-et-ressources.html"/>
       <navPoint id="navPoint-66" playOrder="66">
         <navLabel>
           <text> » Sources</text>
         </navLabel>
-        <content src="Text/Sources%20et%20ressources.html#sigil_toc_id_66"/>
+        <content src="Text/sources-et-ressources.html#sigil_toc_id_66"/>
       </navPoint>
       <navPoint id="navPoint-67" playOrder="67">
         <navLabel>
           <text> » Ressources pour aller plus loin</text>
         </navLabel>
-        <content src="Text/Sources%20et%20ressources.html#sigil_toc_id_67"/>
+        <content src="Text/sources-et-ressources.html#sigil_toc_id_67"/>
       </navPoint>
     </navPoint>
   </navMap>
