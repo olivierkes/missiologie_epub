@@ -1,0 +1,29 @@
+.intro{
+	font-style: italic;
+	margin: 1em 3em 1em 1em;
+	border-left: 2em solid #DDD;
+	padding-left: 0.5em;
+	text-align: justify;
+	font-size: 95%;
+}
+
+p {
+	line-height: 1.5em;
+	margin: 1em 0.5em;
+}
+
+h1,h2,h3,h4{
+	line-height: 1.5em;
+}
+
+li {
+	margin: 0.5em 0 0 1em;
+	line-height: 1.5em;
+}
+
+div.sgc-toc-level-1 p {
+	margin: 0.5em 0 1em 0;
+	line-height: 1.5em;
+	margin-left: 5em;
+	text-indent: -5em;
+}
